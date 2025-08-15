@@ -8,7 +8,7 @@ pip install requirements.txt
 
 3.# Install dependencies
 npm install
-# Start development server
+#Start development server
 npm run dev
 
 4.npm install tw-animate-css
