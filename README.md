@@ -1,3 +1,21 @@
+#To run it Locally open your terminal:
+
+1.clone the git
+git clone https://github.com/spoorthy-n-swamy/Personalized-Finance-Chatbot.git
+
+2.install the requirements
+pip install requirements.txt
+
+3.# Install dependencies
+npm install
+# Start development server
+npm run dev
+
+4.npm install tw-animate-css
+
+then your personalized chatbot is ready to go!!
+
+
 # Granite chatbot setup
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
