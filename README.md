@@ -22,6 +22,10 @@ npm run dev
 
 then your personalized chatbot is ready to go!!
 
+OUTPUT VIDEO AND IMAGES:
+https://drive.google.com/drive/folders/10mAd1V6w0EzcnTg57WlwH3LiKAufVh0M?usp=drive_link
+
+
 
 # Granite chatbot setup
 
