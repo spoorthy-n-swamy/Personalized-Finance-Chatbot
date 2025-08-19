@@ -12,11 +12,13 @@ pip install -r requirements.txt
 
 npm install
 
+npm install tw-animate-css
+
 #Start development server
 
 npm run dev
 
-4.npm install tw-animate-css
+
 
 then your personalized chatbot is ready to go!!
 
